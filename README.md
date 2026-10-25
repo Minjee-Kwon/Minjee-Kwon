@@ -59,14 +59,4 @@ Edge AI 시스템
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minjee-Kwon&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minjee-Kwon&layout=compact)
-
-</div>
-
 
