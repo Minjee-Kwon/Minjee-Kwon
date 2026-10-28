@@ -36,6 +36,16 @@ Verilog HDL과 FSM 기반 시계 및 스톱워치 구현
 
 [![FPGA Clock](https://github-readme-stats.vercel.app/api/pin/?username=Minjee-Kwon&repo=fpga_clock&show_owner=true)](https://github.com/Minjee-Kwon/fpga_clock)
 
+### 🍽 FPGA Microwave Controller
+
+Basys 3와 Verilog HDL 기반 전자레인지 제어 시스템
+
+로터리 시간 설정 · FSM 운전 제어 · DC 모터 정·역회전 · 서보 문 개폐 · FND 및 부저 알림
+
+[![FPGA Microwave](https://github-readme-stats.vercel.app/api/pin/?username=Minjee-Kwon&repo=fpga-microwave&show_owner=true)](https://github.com/Minjee-Kwon/fpga-microwave)
+
+[▶ 동작 영상 · 하드웨어 구성 · FSM 보기](https://github.com/Minjee-Kwon/fpga-microwave#동작-시연)
+
 ### 🚗 AI-based Parking Management
 
 Qt, OpenCV, TensorFlow 및 ONNX를 활용한
@@ -58,5 +68,6 @@ Edge AI 시스템
 [![Smart Recycling](https://github-readme-stats.vercel.app/api/pin/?username=hckim-dev&repo=smart-recycling-edge-ai&show_owner=true)](https://github.com/hckim-dev/smart-recycling-edge-ai)
 
 ---
+
 
 
